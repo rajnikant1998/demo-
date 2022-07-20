@@ -1,6 +1,0 @@
-hello rajnikant 123 123
-hello github
-
-#first line
-#second line
-#This is only for demo
