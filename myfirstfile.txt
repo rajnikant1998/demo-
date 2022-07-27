@@ -1,2 +1,6 @@
+<<<<<<< HEAD
+Hello Sj1
+=======
 Hello hi
 <title> hello how are you </title>
+>>>>>>> ad665fd8b3ec4b7a4377da17930c909840752e79
