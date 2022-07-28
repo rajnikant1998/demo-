@@ -1,0 +1,14 @@
+MAKE CONTTROLLER = php artisan make:controller controllername.
+		 = php artisan make:controller controllername --resource.		
+MAKE Middleware = php artisan make:middleware middlewarename.
+MAKE MODEL = php artisa make:model modelname.
+MAKE MIGRATION = php artisan make:migration create_customer_table.
+MIGRAT MIGRATION = php artisan migrate.
+MAKE MIDDLEWARE = php artisan make:middleware middlewarename.
+MAKE Components = php artisan make:component componentname.
+MAKE Request = php artisan make:request requestname.
+make factory = php artisan make:factory PostFactory --model=Post.
+MAKE SEEDER = php artisan make:seed UserTableSeeder
+RUN SEEDER = php artisan db:seed --class=UserTableSeeder
+Hello Laravel
+
